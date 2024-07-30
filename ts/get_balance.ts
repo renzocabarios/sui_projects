@@ -1,5 +1,4 @@
 import { CoinBalance, getFullnodeUrl, SuiClient } from "@mysten/sui/client";
-import { getFaucetHost, requestSuiFromFaucetV1 } from "@mysten/sui/faucet";
 import { MIST_PER_SUI } from "@mysten/sui/utils";
 
 const MY_ADDRESS =
